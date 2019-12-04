@@ -171,6 +171,8 @@ public class GameOfLifeController {
 //			this.model = new GameOfLifeModel(width, height, low_survive, high_survive, low_birth, high_birth);
 //			this.view = new GameOfLifeView(width, height);
 //			view.addController(this);
+			//adding this for commit
+			
 		}
 	}
 }
